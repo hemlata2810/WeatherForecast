@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Admin
+Build-Jdk: 18.0.2.1
+Implementation-Title: WeatherForecastImpl
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: weatherForecast.impl
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/weatherForecast.demo/weatherForecast.impl
+Created-By: Maven Integration for Eclipse
+
